@@ -1,0 +1,28 @@
+body {
+    background-image: url("/images/sand.jpg");
+    background-repeat: repeat;
+    background-size: 15%;
+    display: inline;
+}
+
+#main {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: beige;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+#badges {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    font-style: italic;
+    font-weight: 900px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
