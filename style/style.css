@@ -21,6 +21,10 @@ body {
     padding: 2px;
 }
 
+#main .portrait {
+    padding-right: 6px;
+}
+
 #badges {
     text-align: center;
     margin-left: auto;
