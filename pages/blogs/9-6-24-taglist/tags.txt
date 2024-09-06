@@ -1,0 +1,88 @@
+<audio> plays audio in the browser and has the controls attribute. This attribute allows the user to adjust time and volume.
+<del> Marks text that is removed from the document, but not really. It adds a strikethrough through the selected text.
+<!--...--> This is a comment that allows you to type on the html document without messing up the actual HTML of your website.
+<param> Defines parameters associated with an object. They act as attributes or labels.
+<picture> tag that changes the image depending on size of the window. Important for responsiveness.
+<source> specifies the multimedia elements in your code.
+<img> Image
+<head> Hidden from the user and contains metadata for the site. Includes customization.
+<h#> 6 Different heading sizes that act as headers. Use only 1 <h1> per page for simplicity. Contained within the body.
+<i> Stands for italicized. Deprecated version of <em> or emphasis tag which does the same thing.
+<object> Embeds external media, web pages, videos, pictures.
+<details> Text that shows more information when you click on it. Often accompanied by <summary>
+<!DOCTYPE> Classifies what the website is reading.
+ <abbr> Dotted line under the words. To show the abbreviation, you must add a title=”” attribute.
+<dialog> Texts about a box that covers the elements inside.
+<select> tag creates a drop-down menu, has multiple options, each object needs a name attribute for storing data. You need a PHP element in your script for data to be stored/used for the submit button.
+<option> Gives an option in a <select> menu.
+<optgroup> Puts a list of options together into types.
+<time> tag used to visualize time. Has the datetime attribute which stores time inside of your website. Used with pubdate attribute to store the time on the website 
+<sup> and <sub> superscripts, and subscripts. Used for STEM based applications where exponents or subscripts need to be used to display information.
+<ul> Tag used for a bullet list that does not have any particular order.
+<iframe> or inline frame is used for when you want to embed a webpage into your site, interactive.
+<style> tag is under the <head> tag because it is metadata. Used for changing the style of the website. Can change virtually anything on the webpage.
+<fieldset> Group elements in a field together, draws a box around the elements, uses the <legend> tag for caption. Must label all of the fields.
+<legend> similar to tags like header but specifically for the fieldset.
+<meta> information of website data that is not required to be displayed to the user.
+<code> element used to define code. Formats and styles specific text to change the font of the text.
+<output> tag is used for calculation. Creates a slider on the screen.
+<video> embeds video on the website. <source> is an important piece because if there is an error it will play the video from the next available source.
+<address> Contains author’s contact information.
+<source> specifies media sources for other tags like <audio> <video> and <picture>
+<section> defines a section of the document in code.
+<article> Specifies self-contained content. Used for HTML structuring.
+<aside> Defines the content different from the text around it.
+<hr> Separates content by breaking the info into different chunks by using a line.
+<blockquote> Specifies quotes from outside sources. Formats the text by indenting the entire block of text.
+<main> Specifies main documents.
+<script> Embeds javascript into your website.
+<br> Adds a single line break in text. Moves to the next line
+<header> tag contains the stuff at the top of the website. Contains all the stuff that should be seen when the website is immediately. Used for structuring html.
+<footer> Header, but for the bottom of the page. Contains information that should belong at the bottom of the page. Also used for structuring HTML.
+<button> Makes a clickable button that can be tied into Javascript.
+<input> Often used with form to give a clickable box that the user can type into to provide input.
+<dl> tag stands for description list, related to <ol> and <ul> defines description list using <dt> tags.
+<dt> or description term is <li> equivalent to lists.
+<dd> Description for description term.
+<a> Anchor tag used to create a hyperlink that can link to other websites or pages in your website. href=”” specifies the link it leads to.
+<em> Stands for emphasis and adds italics to text. Used inside a <p> or <h#> tag.
+<mark> Highlights a selected portion of text. Used to point out information.
+<embed> Contains a media file in your site. Specify a source, type, width, and height.
+<code> tag displays a piece of text inside code by changing the font to a monospace font.
+<span> tag similar to <div> in that it contains content but <span> is more for pieces of text so that very specific information can be stylized instead of a whole block of text.
+<ins> Used to add text to an HTML document as a revision.
+<q> tag puts quotation marks around a piece of text.
+<b> Tag specifies bold text.
+<base> tag establishes base url/the target that other elements can use as the base.
+<col> Specifies the column within a <colgroup> element. Used for Structure.
+<colgroup> Table of different columns and elements.
+<datalist> offers pre-defined autocomplete options for <input> elements.
+<frame> Not supported in HTML5, but in HTML4 it was used to define a window inside of a frameset.
+<kbd> Defines keyboard input which is displayed in the ecomputers default font.
+<html> Defines the root of an html document. Wraps everything inside the document.
+<meter> A scalar measurement within a known range (a gauge)
+<ol> Establishes an ordered list. Either numerical or alphabetical and requires a <li> tag to define list elements.
+<li> or list item, establishes an item within a <ol> <ul> or <menu>
+<p> defines a paragraph or a block of text on a webpage.
+<pre> defines preformatted text, meaning it is displayed exactly as written.
+<small> writes smaller text.
+<textarea> A multiline input element with optional starting text that can hold an unlimited amount of characters.
+<strong> used to show text that is important. This tag boldens the text.
+<title> This tag is used to define the title of the document which appears on the tab at the top of the web browser.
+<var> The variable tag establishes a variable. Italicizes content.
+<img> Defines and inserts an image into an HTML document.
+<cite> Defines citation
+<link> relates to documents to an unknown source. Used for stylesheets, javascript libraries, favicons, and others.
+<data> provides information both readable to the user and the machine.
+<canvas> creates a container that can show graphics created with javascript.
+<sub> creates subscripted text, which is half a character lower and smaller by default but can be changed by css.
+<bdo> is used to change the direction of text. Changes the direction text is displayed.
+<form> used to collect information inputted by the user.
+<noscript> Shows text to be displayed when javascript is disabled.
+<label> Caption for an item. Works with <input>
+<nav> Defines a set of navigation links. Shows tabs.
+<s> adds a strikethough to text.
+<map> Defines an image map, works with area, and defines a clickable image.
+<area> Set a clickable area inside of an image map.
+<caption> Title of a table, providing the table an accessible description
+<ruby> and <rt> <ruby> adds words that need captioning to understand pronunciation.
