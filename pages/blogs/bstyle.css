@@ -1,3 +1,7 @@
+:root {
+    --d4-munique-color: rgb(217, 155, 238);
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-image: url("/images/sand.jpg");
@@ -22,6 +26,14 @@ body {
 
 }
 
+#container p {
+    text-indent: 25px;
+}
+
+#container em {
+    font-weight: bold;
+}
+
 .example {
     width: 80%;
 }
@@ -41,4 +53,9 @@ body {
 .construction {
     margin-left: auto;
     margin-right: auto; 
+}
+
+.diablo4-munique {
+    color: var(--d4-munique-color);
+    font-weight: bold;
 }
