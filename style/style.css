@@ -9,6 +9,7 @@ body {
     background-repeat: repeat;
     background-size: 15%;
     display: inline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 #main {
@@ -52,5 +53,13 @@ body {
 }
 
 .description {
-    margin-top: 0px;
+    margin: 4px;
+}
+
+.article-mainpage-header {
+    margin: 4;
+}
+
+.news-cell {
+    margin: 4px;
 }
